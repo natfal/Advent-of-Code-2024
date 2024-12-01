@@ -7,4 +7,5 @@ Options:
 - C++
 
 ## Day 1
-[Excel](Day1.xlsx)
+- [Excel](Day01.xlsx)
+- [Java](Day01.java)
