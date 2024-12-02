@@ -10,5 +10,6 @@ Options:
 - [Excel](Day01.xlsx)
 - [Java](Day01.java)
 
-## Day 1
+## Day 2
 - [Excel](Day02.xlsx)
+- [Java](Day02.java)
