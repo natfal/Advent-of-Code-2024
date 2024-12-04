@@ -17,3 +17,6 @@ Options:
 
 ## Day 3
 - [Excel](Day03.xlsx)
+
+## Day 4
+- [Excel](Day04.xlsx)
