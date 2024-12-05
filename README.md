@@ -7,20 +7,20 @@ Options:
 - C++
 
 ## Day 1
-- [Excel](Day01.xlsx)
-- [Java](Day01.java)
-- [Python](Day01.py)
+- [Excel](./Day01/Day01.xlsx)
+- [Java](./Day01/Day01.java)
+- [Python](./Day01/Day01.py)
 
 ## Day 2
-- [Excel](Day02.xlsx)
-- [Java](Day02.java)
+- [Excel](./Day02/Day02.xlsx)
+- [Java](./Day02/Day02.java)
 
 ## Day 3
-- [Excel](Day03.xlsx)
+- [Excel](./Day03/Day03.xlsx)
 
 ## Day 4
-- [Excel](Day04.xlsx)
+- [Excel](./Day04/Day04.xlsx)
 
 ## Day 5
-- [Excel Part 1](<Day05 PART1.xlsx>)
-- [Excel Part 2](<Day05 PART2.xlsx>)
+- [Excel Part 1](<./Day05/Day05 PART1.xlsx>)
+- [Excel Part 2](<./Day05/Day05 PART2.xlsx>)
