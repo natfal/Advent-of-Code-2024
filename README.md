@@ -20,3 +20,7 @@ Options:
 
 ## Day 4
 - [Excel](Day04.xlsx)
+
+## Day 5
+- [Excel Part 1](<Day05 PART1.xlsx>)
+- [Excel Part 2](<Day05 PART2.xlsx>)
