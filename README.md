@@ -27,3 +27,6 @@ Options:
 
 ## Day 6
 - [Excel](<./Day06/Day06.xlsx>) (Part 2 WIP - some bug I'm missing!?)
+
+## Day 7
+- [Python](<./Day07/Day07.py>)
