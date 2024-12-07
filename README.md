@@ -24,3 +24,6 @@ Options:
 ## Day 5
 - [Excel Part 1](<./Day05/Day05 PART1.xlsx>)
 - [Excel Part 2](<./Day05/Day05 PART2.xlsx>)
+
+## Day 6
+- [Excel](<./Day06/Day06.xlsx>) (Part 2 WIP - some bug I'm missing!?)
