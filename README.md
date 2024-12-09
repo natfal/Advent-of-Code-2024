@@ -33,3 +33,6 @@ Options:
 
 ## Day 8
 - [Python](<./Day08/Day08.py>)
+
+## Day 9
+- [Python](<./Day09/Day09.py>)
