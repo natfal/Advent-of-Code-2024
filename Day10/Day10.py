@@ -49,13 +49,5 @@ def totalTrailsForPos(map, currRow, currCol, zeroID, part1Mode):
     # look left
     totalTrailsForPos(map, leftPos[0], leftPos[1], zeroID, part1Mode) if inBounds(map, leftPos[0], leftPos[1]) and map[currRow][currCol] + 1 == map[leftPos[0]][leftPos[1]] else 0
 
-class Node:
-    def __init__(self, symbol, amount):
-        self.symbol = symbol
-        self.amount = amount
-        
-    def __str__(self):
-        return "(" + str(self.symbol) + "," + str(self.amount) + ")"
-
 if __name__ == "__main__":
     main()
