@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import sys
 
-splits = {} # key for caching how many splits a () has
+splits = {} # key for caching how many splits a (item, iterations) has
 
 def main():
     
