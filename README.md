@@ -51,3 +51,7 @@ Options:
 
 ## Day 14
 - [Python](<./Day14/Day14.py>)
+
+
+## Day 18
+- [Python](<./Day18/Day18.py>)
