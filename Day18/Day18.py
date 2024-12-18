@@ -4,7 +4,7 @@ import sys
 test = False
 distance = 7 if test else 71
 part1 = False
-simulationLimit = 12 if test else 1024 if part1 else 2900 # tweaked this until it was nearing the limit
+simulationLimit = 12 if test else 1024 if part1 else 2900 # tweaked this until it was nearing the limit - could do a similar approach with binary search 
 
 corrupted = []
 toVisit = []
